@@ -25,10 +25,10 @@ My research focuses on developing data-driven and theory-driven methods to addre
 You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghaofu2-c@my.cityu.edu.hk).
 
 # 🔥 News
-!--- *2024.07*: Presented a talk at the EcoStat conference in Beijing.
-!--- *2024.05*: One paper accepted at ICML 2024.
-!--- *2024.04*: One paper accepted at Genome Research.
-!--- *2024.01*: Presented a talk at the PMOSHK in Hong Kong.
+- *2024.07*: Presented a talk at the EcoStat conference in Beijing.
+- *2024.05*: One paper accepted at ICML 2024.
+- *2024.04*: One paper accepted at Genome Research.
+- *2024.01*: Presented a talk at the PMOSHK in Hong Kong.
 
 # 📝 Publications 
  \* represents equal contribution
@@ -80,9 +80,9 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 # 💬 Invited Talks
 - *2024.07*, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
-  Beijing, China, July 2024. 
+  - Beijing, China, July 2024. 
 - *2024.01*, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)
-  Hong Kong SAR, China, January 2024
+  - Hong Kong SAR, China, January 2024
 
 
 # 💻 Services

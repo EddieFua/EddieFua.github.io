@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Teaching"
-    url: "/#-teaching"
-
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Invited talks"
+    url: "/#-invited talks"
+    
   - title: "Services"
     url: "/#-services"
+    
+  - title: "Teaching"
+    url: "/#-teaching"

@@ -39,7 +39,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 ### Journal
 - [A new framework for exploratory network mediator analysis in omics data](https://openreview.net/forum?id=TWC4gLoAxY)  
   *Qingpo Cai\*, **Yinghao Fu\***, Cheng Lyu\*, Zihe Wang, Shun Rao, Jessica A Alvarez, Yun Bai, Jian Kang, Tianwei Yu*  
-  *Genome Research*
+  **Genome Research**
 </div>
 </div>
 
@@ -50,7 +50,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY)  
 
   *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*
-  *ICLR 2024*
+  **ICLR 2024**
 </div>
 </div>
 
@@ -58,7 +58,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <div class='paper-box-text' markdown="1">
 - [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html)  
   *Yang Yang, Chao Yang, Boyang Li, **Yinghao Fu**, Shuang Li*  
-  *ICML 2024*
+  **ICML 2024**
 </div>
 </div>
 
@@ -66,7 +66,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <div class='paper-box-text' markdown="1">
 - [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/)  
   *Weihao Xia, **Yinghao Fu**, Jingliang Shi, Honghua Wu, Jihui Wang*  
-  *40th Chinese Control Conference (CCC)*
+  **40th Chinese Control Conference (CCC)**
 </div>
 </div>
 
@@ -79,7 +79,6 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 💬 Invited Talks
-<span id="invited-talks"></span>
 - *2024.07*, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
   - Beijing, China, July 2024. 
 - *2024.01*, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)

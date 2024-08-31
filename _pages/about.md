@@ -25,14 +25,13 @@ My research focuses on developing data-driven and theory-driven methods to addre
 You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghaofu2-c@my.cityu.edu.hk).
 
 # 🔥 News
-- *2024.07*: Gave a talk at EcoStat in Beijing.
-<!--- *2023.12*: &nbsp;New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.-->
-<!--- *2023.10*: &nbsp;🎉🎉New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.-->
-<!--- *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.-->
-<!--- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.-->
+!--- *2024.07*: Presented a talk at the EcoStat conference in Beijing.
+!--- *2024.05*: One paper accepted at ICML 2024.
+!--- *2024.04*: One paper accepted at Genome Research.
+!--- *2024.01*: Presented a talk at the PMOSHK in Hong Kong.
 
 # 📝 Publications 
-- \* represents equal contribution
+ \* represents equal contribution
 
 ### Journal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genome Research</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
@@ -71,8 +70,6 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 </div>
 </div>
 
-# 📝 Teaching
-- 
 
 # 📖 Educations
 - *2022.09 - 2024.07*, Master of Science in Bioinformatics, The Chinese University of Hong Kong (Shenzhen)
@@ -80,11 +77,16 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 - *2018.09 - 2022.07*, Bachelor of Science in Statistics, East China University of Technology
   - Supervised by Prof. Weiwei Zhang
 
-<!--
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+- *2024.07*, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
+  Beijing, China, July 2024. 
+- *2024.01*, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)
+  Hong Kong SAR, China, January 2024
+
 
 # 💻 Services
 - Reviewer: NeurIPS 2024, ICLR 2025 (Invited)
+
+# 📝 Teaching
+- 

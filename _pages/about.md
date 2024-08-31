@@ -52,7 +52,6 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 - [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/)  
   *Weihao Xia, **Yinghao Fu**, Jingliang Shi, Honghua Wu, Jihui Wang*  
   *40th Chinese Control Conference (CCC)*
-[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
 
 
 # 📝 Teaching

@@ -32,6 +32,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <!--- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.-->
 
 # 📝 Publications 
+- ** * **represents equal contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genome Research</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Journal

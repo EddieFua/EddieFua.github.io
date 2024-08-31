@@ -78,7 +78,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 - *2022.09 - 2024.07*, Master of Science in Bioinformatics, The Chinese University of Hong Kong (Shenzhen)
   - Supervised by [Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Prof. Shuang Li](https://shuangli01.github.io/)
 - *2018.09 - 2022.07*, Bachelor of Science in Statistics, East China University of Technology
-  - Supervised by [Prof. Weiwei Zhang]
+  - Supervised by Prof. Weiwei Zhang
 
 <!--
 # 💬 Invited Talks

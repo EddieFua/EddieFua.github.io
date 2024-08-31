@@ -79,6 +79,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 💬 Invited Talks
+<span id="invited-talks"></span>
 - *2024.07*, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
   - Beijing, China, July 2024. 
 - *2024.01*, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)

@@ -48,7 +48,6 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY)  
-
   *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*
   **ICLR 2024**
 </div>

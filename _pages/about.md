@@ -53,7 +53,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html)  
   *Yang Yang, Chao Yang, Boyang Li, **Yinghao Fu**, Shuang Li*  
@@ -61,7 +61,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/)  
   *Weihao Xia, **Yinghao Fu**, Jingliang Shi, Honghua Wu, Jihui Wang*  

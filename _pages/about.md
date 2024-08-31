@@ -32,27 +32,42 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <!--- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.-->
 
 # 📝 Publications 
-- ** * **represents equal contribution
+- \* represents equal contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genome Research</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Journal
 - [A new framework for exploratory network mediator analysis in omics data](https://openreview.net/forum?id=TWC4gLoAxY)  
   *Qingpo Cai\*, **Yinghao Fu\***, Cheng Lyu\*, Zihe Wang, Shun Rao, Jessica A Alvarez, Yun Bai, Jian Kang, Tianwei Yu*  
   *Genome Research*
+</div>
+</div>
 
 ### Conference
-- [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY)  
-  *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*  
-  *ICLR 2024*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY)  
+
+  *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*
+  *ICLR 2024*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html)  
   *Yang Yang, Chao Yang, Boyang Li, **Yinghao Fu**, Shuang Li*  
   *ICML 2024*
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/)  
   *Weihao Xia, **Yinghao Fu**, Jingliang Shi, Honghua Wu, Jihui Wang*  
   *40th Chinese Control Conference (CCC)*
-
+</div>
+</div>
 
 # 📝 Teaching
 - 

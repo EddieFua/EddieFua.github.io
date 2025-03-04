@@ -94,7 +94,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 💻 Services
-- Reviewer: NeurIPS, ICLR, AISTATS
+- Reviewer: NeurIPS, ICML, ICLR, AISTATS
 
 # 📝 Teaching
 - 

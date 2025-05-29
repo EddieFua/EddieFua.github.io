@@ -25,6 +25,7 @@ My research focuses on developing data-driven and theory-driven methods to addre
 You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghaofu2-c@my.cityu.edu.hk).
 
 # 🔥 News
+- *2025.03*: One paper accepted at Frontiers in Genetics.
 - *2024.07*: Presented a talk at the EcoStat conference in Beijing.
 - *2024.05*: One paper accepted at ICML 2024.
 - *2024.04*: One paper accepted at Genome Research.
@@ -80,6 +81,8 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 📖 Educations
+- *2024.09 - Present*, MS in Biostatistics, City University of Hong Kong
+- 
 - *2022.09 - 2024.07*, Master of Science in Bioinformatics, The Chinese University of Hong Kong (Shenzhen)
   - Supervised by [Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Prof. Shuang Li](https://shuangli01.github.io/)
 - *2018.09 - 2022.07*, Bachelor of Science in Statistics, East China University of Technology
@@ -94,7 +97,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 💻 Services
-- Reviewer: NeurIPS, ICML, ICLR, AISTATS
+- Reviewer: NeurIPS, ICML, ICLR, AISTATS, ICML Workshop MAS
 
 # 📝 Teaching
 - 

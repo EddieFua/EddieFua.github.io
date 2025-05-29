@@ -36,11 +36,11 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
  \* represents equal contribution
 
 ### Journal
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Genetics</div><img src='../images/paper5.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Genetics</div><img src='../images/paper5.' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### **Frontiers in Genetics**
 - [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)  
- * **Yinghao Fu**, Leqi Tian, Weiwei Zhang*  
+**Yinghao Fu**, Leqi Tian, Weiwei Zhang
 </div>
 </div>
 
@@ -57,7 +57,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <div class='paper-box-text' markdown="1">
 
 - [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY)  
-  *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*<br>
+  *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*
   **ICLR 2024**
 </div>
 </div>

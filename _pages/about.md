@@ -38,19 +38,17 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 ### Journal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Genetics</div><img src='../images/paper5.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-### Journal
+### **Frontiers in Genetics**
 - [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)  
  **Yinghao Fu**, Leqi Tian, Weiwei Zhang*  
-  **Frontiers in Genetics**
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genome Research</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-### Journal
+### **Genome Research**
 - [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642)  
   *Qingpo Cai\*, **Yinghao Fu\***, Cheng Lyu\*, Zihe Wang, Shun Rao, Jessica A Alvarez, Yun Bai, Jian Kang, Tianwei Yu*  
-  **Genome Research**
 </div>
 </div>
 

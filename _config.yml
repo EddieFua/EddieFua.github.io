@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinghao Fu"
   avatar           : "images/profile.png"
-  bio              : "City University of Hong Kong"
+  bio              : 
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 

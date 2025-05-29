@@ -26,26 +26,26 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 🔥 News
-- *2025.03*: One paper accepted at Frontiers in Genetics.
-- *2024.07*: Presented a talk at the EcoStat conference in Beijing.
-- *2024.05*: One paper accepted at ICML 2024.
-- *2024.04*: One paper accepted at Genome Research.
-- *2024.01*: Presented a talk at the PMOSHK in Hong Kong.
+- *2025.03*: One paper accepted at **Frontiers in Genetics**.
+- *2024.07*: Presented a talk at the **EcoStat conference** in Beijing.
+- *2024.05*: One paper accepted at **ICML 2024**.
+- *2024.04*: One paper accepted at **Genome Research**.
+- *2024.01*: Presented a talk at the **PMOSHK** in Hong Kong.
 
 # 📝 Publications 
 (\* indicates equal contribution)
 
 ## Journal Publications
-1. **Fu, Y.**, Tian, L., & Zhang, W. (2025). STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data. *Frontiers in Genetics*. [DOI](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)
+1. **Fu, Y.**, Tian, L., & Zhang, W. (2025). [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full). **Frontiers in Genetics**. 
 
-2. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024). A new framework for exploratory network mediator analysis in omics data. *Genome Research, 34*(4), 642-653. [DOI](https://genome.cshlp.org/content/34/4/642)
+2. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024). [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642). **Genome Research**. 
 
 ## Conference Publications
-1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024). Enhancing Human-AI Collaboration Through Logic-Guided Reasoning. *International Conference on Learning Representations (ICLR)*. [Link](https://openreview.net/forum?id=TWC4gLoAxY)
+1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024). [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY). **International Conference on Learning Representations (ICLR)**. 
 
-2. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024). Neuro-Symbolic Temporal Point Processes. *International Conference on Machine Learning (ICML)*. [Link](https://proceedings.mlr.press/v235/yang24ag.html)
+2. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024). [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html). **International Conference on Machine Learning (ICML)**.
 
-3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021). The Team Winning Analysis Model Based on Network and Entropy Weight. *40th Chinese Control Conference (CCC)*. [DOI](https://ieeexplore.ieee.org/abstract/document/9550602/)
+3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021). [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/). **40th Chinese Control Conference (CCC)**. 
 
 
 # 📖 Educations
@@ -70,7 +70,8 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 💻 Services
-- Reviewer: NeurIPS, ICML, ICLR, AISTATS, ICML Workshop MAS
+- Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS
+- Workshop Reviewer: ICML Workshop on Machine Learning for Autonomous Systems (MAS)
 
 # 📝 Teaching
 - BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)

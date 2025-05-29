@@ -40,7 +40,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 <div class='paper-box-text' markdown="1">
 ### **Frontiers in Genetics**
 - [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)  
- **Yinghao Fu**, Leqi Tian, Weiwei Zhang*  
+ * **Yinghao Fu**, Leqi Tian, Weiwei Zhang*  
 </div>
 </div>
 

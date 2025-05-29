@@ -24,9 +24,6 @@ My research focuses on developing data-driven and theory-driven methods to addre
 
 You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
 
-You can also find me on:
-- [ORCID](https://orcid.org/my-orcid?orcid=0009-0006-0265-1239)
-- [Google Scholar]([https://scholar.google.com/citations?user=your-user-id](https://scholar.google.com/citations?user=8vBEgIYAAAAJ&hl=zh-CN))
 
 # 🔥 News
 - *2025.03*: One paper accepted at Frontiers in Genetics.
@@ -43,7 +40,7 @@ You can also find me on:
 <div class='paper-box-text' markdown="1">
 ### Journal
 - [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)  
- ***Yinghao Fu**, Leqi Tian, Weiwei Zhang*  
+ **Yinghao Fu**, Leqi Tian, Weiwei Zhang*  
   **Frontiers in Genetics**
 </div>
 </div>

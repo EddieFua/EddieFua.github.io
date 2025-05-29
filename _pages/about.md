@@ -33,59 +33,33 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 - *2024.01*: Presented a talk at the PMOSHK in Hong Kong.
 
 # 📝 Publications 
- \* represents equal contribution
+(\* indicates equal contribution)
 
-### Journal
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Genetics</div><img src='../images/paper5.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-### **Frontiers in Genetics**
-- [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)  
-**Yinghao Fu**, Leqi Tian, Weiwei Zhang
-</div>
-</div>
+## Journal Publications
+1. **Fu, Y.**, Tian, L., & Zhang, W. (2025). STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data. *Frontiers in Genetics*. [DOI](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genome Research</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-### **Genome Research**
-- [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642)  
-  *Qingpo Cai\*, **Yinghao Fu\***, Cheng Lyu\*, Zihe Wang, Shun Rao, Jessica A Alvarez, Yun Bai, Jian Kang, Tianwei Yu*  
-</div>
-</div>
+2. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024). A new framework for exploratory network mediator analysis in omics data. *Genome Research, 34*(4), 642-653. [DOI](https://genome.cshlp.org/content/34/4/642)
 
-### Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Conference Publications
+1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024). Enhancing Human-AI Collaboration Through Logic-Guided Reasoning. *International Conference on Learning Representations (ICLR)*. [Link](https://openreview.net/forum?id=TWC4gLoAxY)
 
-- [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY)  
-  *Chengzhi Cao\*, **Yinghao Fu\***, Sheng Xv, Ruimao Zhang, Shuang Li*
-  **ICLR 2024**
-</div>
-</div>
+2. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024). Neuro-Symbolic Temporal Point Processes. *International Conference on Machine Learning (ICML)*. [Link](https://proceedings.mlr.press/v235/yang24ag.html)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html)  
-  *Yang Yang, Chao Yang, Boyang Li, **Yinghao Fu**, Shuang Li*  
-  **ICML 2024**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/)  
-  *Weihao Xia, **Yinghao Fu**, Jingliang Shi, Honghua Wu, Jihui Wang*  
-  **40th Chinese Control Conference (CCC)**
-</div>
-</div>
+3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021). The Team Winning Analysis Model Based on Network and Entropy Weight. *40th Chinese Control Conference (CCC)*. [DOI](https://ieeexplore.ieee.org/abstract/document/9550602/)
 
 
 # 📖 Educations
-- *2024.09 - Present*, PhD in Biostatistics, City University of Hong Kong
-  - Supervised by [Yi Yang](https://yiyangphd.github.io/)
-- *2022.09 - 2024.07*, Master of Science in Bioinformatics, The Chinese University of Hong Kong (Shenzhen)
-  - Supervised by [Prof. Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Prof. Shuang Li](https://shuangli01.github.io/)
-- *2018.09 - 2022.07*, Bachelor of Science in Statistics, East China University of Technology
-  - Supervised by Prof. Weiwei Zhang
+- **Ph.D. in Biostatistics** (2024-Present)  
+  City University of Hong Kong  
+  Advisor: [Yi Yang](https://yiyangphd.github.io/)
+
+- **M.Sc. in Bioinformatics** (2022-2024)  
+  The Chinese University of Hong Kong, Shenzhen  
+  Advisors: [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/)
+
+- **B.Sc. in Statistics** (2018-2022)  
+  East China University of Technology  
+  Advisor: Weiwei Zhang
 
 
 # 💬 Invited Talks

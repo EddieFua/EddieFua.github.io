@@ -22,7 +22,11 @@ I am Yinghao FU, currently a first-year Ph.D. student in Biostatistics at the Ci
 
 My research focuses on developing data-driven and theory-driven methods to address challenges in genomics data analysis, with applications in healthcare.
 
-You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghaofu2-c@my.cityu.edu.hk).
+You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
+
+You can also find me on:
+- [ORCID](https://orcid.org/my-orcid?orcid=0009-0006-0265-1239)
+- [Google Scholar]([https://scholar.google.com/citations?user=your-user-id](https://scholar.google.com/citations?user=8vBEgIYAAAAJ&hl=zh-CN))
 
 # 🔥 News
 - *2025.03*: One paper accepted at Frontiers in Genetics.
@@ -100,4 +104,4 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 - Reviewer: NeurIPS, ICML, ICLR, AISTATS, ICML Workshop MAS
 
 # 📝 Teaching
-- 
+- BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)

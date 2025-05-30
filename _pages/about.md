@@ -71,7 +71,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 # 💻 Services
 - Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS
-- Workshop Reviewer: ICML Workshop on Machine Learning for Autonomous Systems (MAS)
+- Workshop Reviewer: ICML 2025 Workshop MAS
 
 # 📝 Teaching
 - BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)

@@ -27,6 +27,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 # 🔥 News
 - *2025.06*: One paper accepted for <span style="color: red;">Oral</span> presentation at the ICML 2025 Workshop CFAgentic.
+- *2025.06*: One paper accepted for poster at the ICML 2025 Workshop MoFA.
 - *2025.03*: One paper accepted at **Frontiers in Genetics**.
 - *2024.07*: Presented a talk at the **EcoStat conference** in Beijing.
 - *2024.05*: One paper accepted at **ICML 2024**.
@@ -49,7 +50,8 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., $\&$ Wang, J. (2021). [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/). **40th Chinese Control Conference (CCC)**. 
 
 ## Workshop
-1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. (2024). Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis. **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2015. (<span style="color: red;">Oral</span>)
+1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. (2024). Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis. **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
+1. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. (2024). Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis. **ICML** Workshop on Models of Human Feedback for AI Alignment. 2025.
 
 # 📖 Educations
 - **Ph.D. in Biostatistics** (2024-Present)  

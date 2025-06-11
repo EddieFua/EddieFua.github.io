@@ -37,9 +37,11 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 (\* indicates equal contribution)
 
 ## Journal
-1. **Fu, Y.**, Tian, L.,$ \&$ Zhang, W. (2025). [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full). **Frontiers in Genetics**. 
+1. **Fu, Y.**, Yang, Y. (2025+). Knockoff-augmented neural networks for variable selection in correlated data with applications to family-based GWAS.
 
-2. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., $\&$ Yu, T. (2024). [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642). **Genome Research**. 
+2. **Fu, Y.**, Tian, L.,$ \&$ Zhang, W. (2025). [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full). **Frontiers in Genetics**. 
+
+3. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., $\&$ Yu, T. (2024). [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642). **Genome Research**. 
 
 ## Conference
 1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., $\&$ Li, S. (2024). [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY). **International Conference on Learning Representations (ICLR)**. 
@@ -50,7 +52,8 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 ## Workshop
 1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. (2024). Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis. **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
-1. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. (2024). Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis. **ICML** Workshop on Models of Human Feedback for AI Alignment. 2025.
+
+2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. (2024). Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis. **ICML** Workshop on Models of Human Feedback for AI Alignment. 2025.
 
 # 📖 Educations
 - **Ph.D. in Biostatistics** (2024-Present)  

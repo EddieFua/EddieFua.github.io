@@ -26,8 +26,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 
 # 🔥 News
-- *2025.06*: One paper accepted for <span style="color: red;">Oral</span> presentation at the ICML 2025 Workshop CFAgentic.
-- *2025.06*: One paper accepted for poster at the ICML 2025 Workshop MoFA.
+- *2025.06*: Two papers accepted at ICML 2025 workshops: one for <span style="color: red;">**oral**</span> presentation at CFAgentic and one for poster at MoFA.
 - *2025.03*: One paper accepted at **Frontiers in Genetics**.
 - *2024.07*: Presented a talk at the **EcoStat conference** in Beijing.
 - *2024.05*: One paper accepted at **ICML 2024**.

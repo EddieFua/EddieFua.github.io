@@ -27,14 +27,15 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 
 ## 🔥 News
 - **2025.06**: Three papers accepted at **ICML 2025 Workshops**:
-  - 🗣️ **Oral presentation** at *CFAgentic Workshop*
-  - 🧾 **Poster presentation** at *MoFA Workshop*
-  - ✅ Accepted at *PRAL Workshop*
-- **2025.03**: One paper accepted in *Frontiers in Genetics*.
-- **2024.07**: Gave an invited talk at the *EcoStat Conference*, Beijing.
+  - 🗣️ **Oral presentation** at **CFAgentic Workshop**
+  - 🧾 **Poster presentation** at **MoFA Workshop**
+  - ✅ Accepted at **PRAL Workshop**
+- **2025.03**: One paper accepted in **Frontiers in Genetics**.
+- **2024.07**: Gave an invited talk at the **EcoStat Conference**, Beijing.
 - **2024.05**: One paper accepted at **ICML 2024**.
-- **2024.04**: One paper accepted in *Genome Research*.
-- **2024.01**: Presented a talk at *PMOSHK* in Hong Kong.
+- **2024.04**: One paper accepted in **Genome Research**.
+- **2024.01**: Presented a talk at **PMOSHK** in Hong Kong.
+- **2024.01**: One paper accepted at **ICLR 2024**.
 
 # 📝 Publications 
 (\* indicates equal contribution)

@@ -25,13 +25,16 @@ My research focuses on developing data-driven and theory-driven methods to addre
 You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
 
 
-# 🔥 News
-- *2025.06*: Two papers accepted at ICML 2025 workshops: one for <span style="color: red;">**oral**</span> presentation at CFAgentic and one for poster at MoFA.
-- *2025.03*: One paper accepted at **Frontiers in Genetics**.
-- *2024.07*: Presented a talk at the **EcoStat conference** in Beijing.
-- *2024.05*: One paper accepted at **ICML 2024**.
-- *2024.04*: One paper accepted at **Genome Research**.
-- *2024.01*: Presented a talk at the **PMOSHK** in Hong Kong.
+## 🔥 News
+- **2025.06**: Three papers accepted at **ICML 2025 Workshops**:
+  - 🗣️ **Oral presentation** at *CFAgentic Workshop*
+  - 🧾 **Poster presentation** at *MoFA Workshop*
+  - ✅ Accepted at *PRAL Workshop*
+- **2025.03**: One paper accepted in *Frontiers in Genetics*.
+- **2024.07**: Gave an invited talk at the *EcoStat Conference*, Beijing.
+- **2024.05**: One paper accepted at **ICML 2024**.
+- **2024.04**: One paper accepted in *Genome Research*.
+- **2024.01**: Presented a talk at *PMOSHK* in Hong Kong.
 
 # 📝 Publications 
 (\* indicates equal contribution)
@@ -54,6 +57,8 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis. **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
 
 2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis. **ICML** Workshop on Models of Human Feedback for AI Alignment. 2025.
+
+3. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies. **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.
 
 # 📖 Educations
 - **Ph.D. in Biostatistics** (2024-Present)  

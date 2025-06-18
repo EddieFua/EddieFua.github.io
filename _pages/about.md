@@ -22,7 +22,7 @@ I am Yinghao FU, currently a first-year Ph.D. student in Biostatistics at the Ci
 
 My research focuses on developing data-driven and theory-driven methods to address challenges in genomics data analysis, with applications in healthcare.
 
-You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
+If you are interested in my work, please feel free to drop me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
 
 
 ## 🔥 News

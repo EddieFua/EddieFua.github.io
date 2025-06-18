@@ -41,7 +41,7 @@ You can find my CV here: [Yinghao Fu's Curriculum Vitae](../assets/Curriculum_Vi
 (\* indicates equal contribution)
 
 ## Journal
-1. **Fu, Y.**, Yang, Y. (2025+). Knockoff-augmented neural networks for variable selection in correlated data with applications to family-based GWAS.
+1. **Fu, Y.**, Yang, Y. (2025+). Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
 
 2. **Fu, Y.**, Tian, L.,$ \&$ Zhang, W. (2025). [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full). **Frontiers in Genetics**. 
 

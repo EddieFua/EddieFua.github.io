@@ -27,9 +27,9 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 ## 🔥 News
 - **2025.06**: Three papers accepted at **ICML 2025 Workshops**:
-  - 🗣️ **Oral presentation** at **CFAgentic Workshop**
-  - 🧾 **Poster presentation** at **MoFA Workshop**
-  - ✅ Accepted at **PRAL Workshop**
+  - 🗣️ **Oral presentation** at [**CFAgentic Workshop**]([https://openreview.net/forum?id=PcLnHRmZ86)
+  - 🧾 **Poster presentation** at [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
+  - ✅ Accepted at [**PRAL Workshop**](https://openreview.net/forum?id=mXDB3wuXhN)
 - **2025.03**: One paper accepted in **Frontiers in Genetics**.
 - **2024.07**: Gave an invited talk at the **EcoStat Conference**, Beijing.
 - **2024.05**: One paper accepted at **ICML 2024**.
@@ -55,11 +55,11 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., $\&$ Wang, J. (2021). [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/). **40th Chinese Control Conference (CCC)**. 
 
 ## Workshop
-1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis. **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
+1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis]([https://openreview.net/forum?id=PcLnHRmZ86). **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
 
-2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis. **ICML** Workshop on Models of Human Feedback for AI Alignment. 2025.
+2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). **ICML** Workshop on Models of Human Feedback for AI Alignment. 2025.
 
-3. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies. **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.
+3. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://openreview.net/forum?id=mXDB3wuXhN). **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.
 
 # 📖 Educations
 - **Ph.D. in Biostatistics** (2024-Present)  

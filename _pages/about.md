@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am Yinghao FU, currently a first-year Ph.D. student in Biostatistics at the City University of Hong Kong (CityU), where I am mentored by Professor [Yi Yang](https://yiyangphd.github.io/). Prior to this, I obtained my Master's degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), where I am advised by Professor [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/).
+I am Yinghao FU, currently a second-year Ph.D. student in Biostatistics at the City University of Hong Kong (CityU), where I am mentored by Professor [Yi Yang](https://yiyangphd.github.io/). Prior to this, I obtained my Master's degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), where I am advised by Professor [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/).
 
 My research focuses on developing data-driven and theory-driven methods to address challenges in genomics data analysis, with applications in healthcare.
 

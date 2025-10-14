@@ -26,7 +26,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 ## 🔥 News
-- **2025.09**: Paper accepted at **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance** (Award Candidate)
+- **2025.09**: Paper accepted at **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance** (Oral)
 - **2025.06**: Three papers accepted at **ICML 2025 Workshops**:
   - 🗣️ **Oral presentation** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
   - 🧾 **Poster presentation** at [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
@@ -58,7 +58,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 ## Workshop
 1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86). **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
 
-2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, Award Candidate) $\&$ **ICML** Workshop on Models of Human Feedback for AI Alignment, 2025.
+2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, Award Candidate) $\&$ **ICML** Workshop on Models of Human Feedback for AI Alignment, 2025. (<span style="color: red;">Oral</span>)
 
 4. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/). **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.
 

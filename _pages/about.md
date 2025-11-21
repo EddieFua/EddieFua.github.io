@@ -26,7 +26,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 ## 🔥 News
-- **2025.09**: Paper accepted at **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance** (Oral)
+- **2025.09**: Paper accepted at **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance** (**Oral presentation**)
 - **2025.06**: Three papers accepted at **ICML 2025 Workshops**:
   - 🗣️ **Oral presentation** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
   - 🧾 **Poster presentation** at [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
@@ -84,7 +84,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 # 💻 Services
-- Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS
+- Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS, AAMAS
 - Workshop Reviewer: ICML 2025 Workshop MAS
 
 # 📝 Teaching

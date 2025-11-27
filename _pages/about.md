@@ -58,7 +58,9 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 ## Workshop
 1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86). **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
 
-2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, <span style="color: red;">Oral</span>) $\&$ **ICML** Workshop on Models of Human Feedback for AI Alignment, 2025.
+2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). 
+   **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, <span style="color: red;">Oral</span>)
+   **ICML** Workshop on Models of Human Feedback for AI Alignment, 2025.
 
 4. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/). **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.
 

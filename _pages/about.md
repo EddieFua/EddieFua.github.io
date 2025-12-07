@@ -26,16 +26,17 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 ## 🔥 News
-- **2025.09**: Paper accepted at **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance** (**Oral presentation**)
-- **2025.06**: Three papers accepted at **ICML 2025 Workshops**:
+
+- **2025.09**: One paper was awarded **<span style="color: red;">Best Paper</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
+- **2025.06**: Three papers accepted to **ICML 2025 Workshops**:
   - 🗣️ **Oral presentation** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
   - 🧾 **Poster presentation** at [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
-  - ✅ Accepted at [**PRAL Workshop**](https://pral-workshop.github.io/)
+  - ✅ Paper accepted at [**PRAL Workshop**](https://pral-workshop.github.io/)
 - **2025.03**: One paper accepted in **Frontiers in Genetics**.
 - **2024.07**: Gave an invited talk at the **EcoStat Conference**, Beijing.
 - **2024.05**: One paper accepted at **ICML 2024**.
 - **2024.04**: One paper accepted in **Genome Research**.
-- **2024.01**: Presented a talk at **PMOSHK** in Hong Kong.
+- **2024.01**: Gave a talk at **PMOSHK**, Hong Kong.
 - **2024.01**: One paper accepted at **ICLR 2024**.
 
 # 📝 Publications 
@@ -59,7 +60,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86). **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
 
 2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). 
-   **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, <span style="color: red;">Oral</span>)
+   **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, <span style="color: red;">Oral, Best Paper Award</span>)
    **ICML** Workshop on Models of Human Feedback for AI Alignment, 2025.
 
 4. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/). **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.

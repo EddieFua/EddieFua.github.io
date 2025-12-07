@@ -43,27 +43,48 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 (\* indicates equal contribution)
 
 ## Journal
-1. **Fu, Y.**, Yang, Y. (2025+). Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
 
-2. **Fu, Y.**, Tian, L.,$ \&$ Zhang, W. (2025). [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full). **Frontiers in Genetics**. 
+1. **Fu, Y.**, & Yang, Y. (2025+).  
+   Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
 
-3. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., $\&$ Yu, T. (2024). [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642). **Genome Research**. 
+2. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
+   [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full).  
+   **Frontiers in Genetics**.
+
+3. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024).  
+   [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642).  
+   **Genome Research**.
 
 ## Conference
-1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., $\&$ Li, S. (2024). [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY). **International Conference on Learning Representations (ICLR)**. 
 
-2. Yang, Y., Yang, C., Li, B., **Fu, Y.**, $\&$ Li, S. (2024). [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html). **International Conference on Machine Learning (ICML)**.
+1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024).  
+   [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY).  
+   **International Conference on Learning Representations (ICLR 2024)**.
 
-3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., $\&$ Wang, J. (2021). [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/). **40th Chinese Control Conference (CCC)**. 
+2. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024).  
+   [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html).  
+   **International Conference on Machine Learning (ICML 2024)**.
+
+3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021).  
+   [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/).  
+   **40th Chinese Control Conference (CCC 2021)**.
 
 ## Workshop
-1. **Fu, Y.**\*, Yang, C.\*, Chen, X,,  Yan, Y., $\&$ Li, S. [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86). **ICML** Workshop on Collaborative and Federated Agentic Workflows. 2025. (<span style="color: red;">Oral</span>)
 
-2. Yan, Y., **Fu, Y.**, Ren, W., $\&$ Li, S. [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx). 
-   **NeurIPS** Workshop on GenAI for Health: Potential, Trust, and Policy Compliance (2025, <span style="color: red;">Oral, Best Paper Award</span>)
-   **ICML** Workshop on Models of Human Feedback for AI Alignment, 2025.
+1. **Fu, Y.**\*, Yang, C.\*, Chen, X., Yan, Y., & Li, S.  
+   [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86).  
+   *ICML 2025 Workshop on Collaborative and Federated Agentic Workflows*.  
+   (<span style="color: red;">Oral</span>)
 
-4. Cao, C., **Fu, Y.**, Yang, C., $\&$ Li, S. [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/). **ICML** Workshop on Programmatic Representations for Agent Learning. 2025.
+2. Yan, Y., **Fu, Y.**, Ren, W., & Li, S.  
+   [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx).  
+   *NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance*  
+   (<span style="color: red;">Oral, Best Paper Award</span>);  
+   *ICML 2025 Workshop on Models of Human Feedback for AI Alignment*.
+
+3. Cao, C., **Fu, Y.**, Yang, C., & Li, S.  
+   [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/).  
+   *ICML 2025 Workshop on Programmatic Representations for Agent Learning*.
 
 # 📖 Educations
 - **Ph.D. in Biostatistics** (2024-Present)  

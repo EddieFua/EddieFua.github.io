@@ -29,7 +29,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 - **2025.09**: One paper was awarded **<span style="color: red;">Best Paper</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
 - **2025.06**: Three papers accepted to **ICML 2025 Workshops**:
-  - 🗣️ **Oral presentation** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
+  - 🗣️ **<span style="color: red;">Oral presentation</span>** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
   - 🧾 **Poster presentation** at [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
   - ✅ Paper accepted at [**PRAL Workshop**](https://pral-workshop.github.io/)
 - **2025.03**: One paper accepted in **Frontiers in Genetics**.
@@ -44,7 +44,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 ## Journal
 
-1. **Fu, Y.**, & Yang, Y. (2025+).  
+1. **Fu, Y.**, & Yang, Y. (2026+).  
    Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
 
 2. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
@@ -85,6 +85,12 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 3. Cao, C., **Fu, Y.**, Yang, C., & Li, S.  
    [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/).  
    *ICML 2025 Workshop on Programmatic Representations for Agent Learning*.
+
+## Patent
+
+1. Li, S., **Fu, Y.**, Yang, C., Yang, Y., Feng, M., Xia, P., Chen, L., & Yu, T. (2024).  
+   *An AI-Assisted Multidisciplinary Consultation Decision-Making Method for Complex and Rare Diseases*.
+   Publication No. **CN118507022A**.
 
 # 📖 Educations
 - **Ph.D. in Biostatistics** (2024-Present)  

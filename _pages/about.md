@@ -26,7 +26,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 ## 🔥 News
-
+- **2026.05**: One paper was accepted at **ICML 2026**. 
 - **2025.09**: One paper was awarded **<span style="color: red;">Best Paper</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
 - **2025.06**: Three papers accepted to **ICML 2025 Workshops**:
   - 🗣️ **<span style="color: red;">Oral presentation</span>** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
@@ -57,15 +57,19 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 ## Conference
 
-1. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024).  
+1. Yan, Y., **Fu, Y.**, Ren, W., & Li, S.  
+   [Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis]
+   **International Conference on Machine Learning (ICML 2026)**.
+
+2. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024).  
    [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY).  
    **International Conference on Learning Representations (ICLR 2024)**.
 
-2. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024).  
+3. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024).  
    [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html).  
    **International Conference on Machine Learning (ICML 2024)**.
 
-3. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021).  
+4. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021).  
    [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/).  
    **40th Chinese Control Conference (CCC 2021)**.
 

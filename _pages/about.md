@@ -58,7 +58,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 ## Conference
 
 1. Yan, Y., **Fu, Y.**, Ren, W., & Li, S.  
-   [Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis]
+   [Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis](https://openreview.net/forum?id=rEzGzILnVC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
    **International Conference on Machine Learning (ICML 2026)**.
 
 2. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024).  

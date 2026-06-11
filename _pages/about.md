@@ -27,7 +27,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 ## 🔥 News
 - **2026.06**: One paper was accepted to **ICML 2026 Workshops**:
-  - 🗣️ **<span style="color: red;">Oral presentation</span>** at [**FAGEN Workshop**]
+  - 🗣️ **<span style="color: red;">Oral presentation</span>** at **FAGEN Workshop**
 - **2026.05**: One paper was accepted at **ICML 2026**. 
 - **2025.09**: One paper was awarded **<span style="color: red;">Best Paper</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
 - **2025.06**: Three papers accepted to **ICML 2025 Workshops**:
@@ -61,7 +61,6 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 1. Yan, Y., **Fu, Y.**, Ren, W., & Li, S.  
    [Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis](https://openreview.net/forum?id=rEzGzILnVC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
-   
    **International Conference on Machine Learning (ICML 2026)**.
 
 2. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024).  

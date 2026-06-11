@@ -26,6 +26,8 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 ## 🔥 News
+- **2026.06**: One paper was accepted to **ICML 2026 Workshops**:
+  - 🗣️ **<span style="color: red;">Oral presentation</span>** at [**FAGEN Workshop**]
 - **2026.05**: One paper was accepted at **ICML 2026**. 
 - **2025.09**: One paper was awarded **<span style="color: red;">Best Paper</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
 - **2025.06**: Three papers accepted to **ICML 2025 Workshops**:
@@ -76,18 +78,23 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 ## Workshop
 
-1. **Fu, Y.**\*, Yang, C.\*, Chen, X., Yan, Y., & Li, S.  
+1. Yan, Y., **Fu, Y.**, Gao, H., Zhang, T., Liu A., & Li, S.  
+   [When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation](https://openreview.net/forum?id=PcLnHRmZ86).  
+   *ICML 2025 Workshop on Failure Modes of Agentic AI*.  
+   (<span style="color: red;">Oral</span>)
+
+2. **Fu, Y.**\*, Yang, C.\*, Chen, X., Yan, Y., & Li, S.  
    [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86).  
    *ICML 2025 Workshop on Collaborative and Federated Agentic Workflows*.  
    (<span style="color: red;">Oral</span>)
 
-2. Yan, Y., **Fu, Y.**, Ren, W., & Li, S.  
+3. Yan, Y., **Fu, Y.**, Ren, W., & Li, S.  
    [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx).  
    *NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance*  
    (<span style="color: red;">Oral, Best Paper Award</span>);  
    *ICML 2025 Workshop on Models of Human Feedback for AI Alignment*.
 
-3. Cao, C., **Fu, Y.**, Yang, C., & Li, S.  
+4. Cao, C., **Fu, Y.**, Yang, C., & Li, S.  
    [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/).  
    *ICML 2025 Workshop on Programmatic Representations for Agent Learning*.
 

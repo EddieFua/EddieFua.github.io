@@ -45,15 +45,17 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 (\* indicates equal contribution)
 
 ## Journal
-
-1. **Fu, Y.**, & Yang, Y. (2026+).  
+1. **Fu, Y.**, & Yang, Y. (2026+). 
+   Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction
+   
+2. **Fu, Y.**, & Yang, Y. (2026+).  
    Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
 
-2. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
+3. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
    [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full).  
    **Frontiers in Genetics**.
 
-3. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024).  
+4. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024).  
    [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642).  
    **Genome Research**.
 
@@ -113,8 +115,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
   Advisors: [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/)
 
 - **B.Sc. in Statistics** (2018-2022)  
-  East China University of Technology  
-  Advisor: Weiwei Zhang
+  East China University of Technology
 
 
 # 💬 Invited Talks

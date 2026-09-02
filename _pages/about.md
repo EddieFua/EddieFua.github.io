@@ -46,7 +46,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 ## Journal
 1. **Fu, Y.**, & Yang, Y. (2026+). 
-   Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction
+   Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
    
 2. **Fu, Y.**, & Yang, Y. (2026+).  
    Knockoff-augmented neural networks for identifying risk variants in family-based association studies.

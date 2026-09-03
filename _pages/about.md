@@ -45,7 +45,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 (\* indicates equal contribution)
 
 ## Journal
-1. **Fu, Y.**, & Yang, Y. (2026+). 
+1. **Fu, Y.**, & Yang, Y. (2026+).  
    Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
    
 2. **Fu, Y.**, & Yang, Y. (2026+).  

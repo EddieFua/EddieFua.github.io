@@ -49,7 +49,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
    Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
    
 2. **Fu, Y.**, & Yang, Y. (2026+).  
-   Knockoff-augmented neural networks for identifying risk variants in family-based association studies.
+   KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies
 
 3. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
    [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full).  

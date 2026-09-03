@@ -127,7 +127,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 # 💻 Services
 - Journal Reviewer: Transactions on Machine Learning Research (TMLR)
-- Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS, AAMAS
+- Conference Reviewer: NeurIPS, ICML, ICLR, AAAI, AISTATS, AAMAS
 
 # 📝 Teaching
 - BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)

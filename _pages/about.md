@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,41 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Welcome! 
-I am Yinghao FU, currently a third-year Ph.D. student in Biostatistics at the City University of Hong Kong (CityU), where I am mentored by Professor [Yi Yang](https://yiyangphd.github.io/). Prior to this, I obtained my Master's degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), where I am advised by Professor [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/).
+# Welcome!
 
-My research focuses on developing data-driven and theory-driven methods to address challenges in genomics data analysis, with applications in healthcare.
+I am Yinghao FU, currently a third-year Ph.D. student in Biostatistics at the City University of Hong Kong (CityU), where I am mentored by Professor [Yi Yang](https://yiyangphd.github.io/). Prior to this, I obtained my master's degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), where I was advised by Professor [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and Professor [Shuang Li](https://shuangli01.github.io/).
 
-If you are interested in my work, please feel free to drop me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
+My research focuses on developing data-driven and theory-driven methods to address challenges in genomic data analysis, with applications in healthcare.
+
+If you are interested in my work, please feel free to send me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
 
 
 ## 🔥 News
-- **2026.09**: One paper was accepted to **Genome Biology**:
-- **2026.06**: One paper was accepted to **ICML 2026 Workshops**:
-  - 🗣️ **<span style="color: red;">Oral presentation</span>** at **FAGEN Workshop**
-- **2026.05**: One paper was accepted at **ICML 2026**. 
-- **2025.09**: One paper was awarded **<span style="color: red;">Best Paper</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
-- **2025.06**: Three papers accepted to **ICML 2025 Workshops**:
-  - 🗣️ **<span style="color: red;">Oral presentation</span>** at [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
-  - 🧾 **Poster presentation** at [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
-  - ✅ Paper accepted at [**PRAL Workshop**](https://pral-workshop.github.io/)
-- **2025.03**: One paper accepted in **Frontiers in Genetics**.
-- **2024.07**: Gave an invited talk at the **EcoStat Conference**, Beijing.
-- **2024.05**: One paper accepted at **ICML 2024**.
-- **2024.04**: One paper accepted in **Genome Research**.
-- **2024.01**: Gave a talk at **PMOSHK**, Hong Kong.
-- **2024.01**: One paper accepted at **ICLR 2024**.
 
-# 📝 Publications 
+- **2026.09**: One paper was accepted for publication in **Genome Biology**.
+- **2026.06**: One paper was accepted to an **ICML 2026 Workshop**:
+  - 🗣️ **<span style="color: red;">Oral presentation</span>** at the **FAGEN Workshop**
+- **2026.05**: One paper was accepted to **ICML 2026**.
+- **2025.09**: One paper received the **<span style="color: red;">Best Paper Award</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
+- **2025.06**: Three papers were accepted to **ICML 2025 Workshops**:
+  - 🗣️ **<span style="color: red;">Oral presentation</span>** at the [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
+  - 🧾 **Poster presentation** at the [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
+  - ✅ Paper accepted at the [**PRAL Workshop**](https://pral-workshop.github.io/)
+- **2025.03**: One paper was accepted for publication in **Frontiers in Genetics**.
+- **2024.07**: Gave an invited talk at the **EcoStat Conference** in Beijing.
+- **2024.05**: One paper was accepted to **ICML 2024**.
+- **2024.04**: One paper was accepted for publication in **Genome Research**.
+- **2024.01**: Gave a talk at **PMOSHK** in Hong Kong.
+- **2024.01**: One paper was accepted to **ICLR 2024**.
+
+
+# 📝 Publications
+
 (\* indicates equal contribution)
 
 ## Journal
+
 1. **Fu, Y.**, & Yang, Y. (2026+).  
    Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
-   
+
 2. **Fu, Y.**, & Yang, Y. (2026).  
-   KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies
-  **Genome Biology**.
+   KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.  
+   **Genome Biology**.
 
 3. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
    [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full).  
@@ -60,6 +65,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 4. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024).  
    [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642).  
    **Genome Research**.
+
 
 ## Conference
 
@@ -79,58 +85,66 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
    [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/).  
    **40th Chinese Control Conference (CCC 2021)**.
 
+
 ## Workshop
 
-1. Yan, Y., **Fu, Y.**, Gao, H., Zhang, T., Liu A., & Li, S. (2025).  
+1. Yan, Y., **Fu, Y.**, Gao, H., Zhang, T., Liu, A., & Li, S. (2025).  
    [When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation](https://openreview.net/forum?id=PcLnHRmZ86).  
    *ICML 2025 Workshop on Failure Modes of Agentic AI*.  
-   (<span style="color: red;">Oral</span>)
+   (<span style="color: red;">Oral Presentation</span>)
 
 2. **Fu, Y.**\*, Yang, C.\*, Chen, X., Yan, Y., & Li, S. (2025).  
    [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86).  
    *ICML 2025 Workshop on Collaborative and Federated Agentic Workflows*.  
-   (<span style="color: red;">Oral</span>)
+   (<span style="color: red;">Oral Presentation</span>)
 
 3. Yan, Y., **Fu, Y.**, Ren, W., & Li, S. (2025).  
    [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx).  
-   *NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance*  
-   (<span style="color: red;">Oral, Best Paper Award</span>);  
+   *NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance*.  
+   (<span style="color: red;">Oral Presentation, Best Paper Award</span>)  
    *ICML 2025 Workshop on Models of Human Feedback for AI Alignment*.
 
 4. Cao, C., **Fu, Y.**, Yang, C., & Li, S. (2025).  
    [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/).  
    *ICML 2025 Workshop on Programmatic Representations for Agent Learning*.
 
+
 ## Patent
 
 1. Li, S., **Fu, Y.**, Yang, C., Yang, Y., Feng, M., Xia, P., Chen, L., & Yu, T. (2024).  
-   *An AI-Assisted Multidisciplinary Consultation Decision-Making Method for Complex and Rare Diseases*.
+   **An AI-Assisted Multidisciplinary Consultation Decision-Making Method for Complex and Rare Diseases**.  
    Publication No. **CN118507022A**.
 
-# 📖 Educations
-- **Ph.D. in Biostatistics** (2024-Present)  
+
+# 📖 Education
+
+- **Ph.D. in Biostatistics** (2024–Present)  
   City University of Hong Kong  
   Advisor: [Yi Yang](https://yiyangphd.github.io/)
 
-- **M.Sc. in Bioinformatics** (2022-2024)  
+- **M.Sc. in Bioinformatics** (2022–2024)  
   The Chinese University of Hong Kong, Shenzhen  
   Advisors: [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/)
 
-- **B.Sc. in Statistics** (2018-2022)  
+- **B.Sc. in Statistics** (2018–2022)  
   East China University of Technology
 
 
 # 💬 Invited Talks
-- *2024.07*, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
-  - Beijing, China, July 2024. 
-- *2024.01*, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)
-  - Hong Kong SAR, China, January 2024
+
+- **2024.07**, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
+  - Beijing, China, July 2024.
+
+- **2024.01**, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)  
+  - Hong Kong SAR, China, January 2024.
 
 
-# 💻 Services
+# 💻 Service
+
 - Journal Reviewer: Transactions on Machine Learning Research (TMLR)
-- Conference Reviewer: NeurIPS, ICML, ICLR, AAAI, AISTATS, AAMAS
+- Conference Reviewer: NeurIPS, ICML, ICLR, AAAI, AISTATS, and AAMAS
+
 
 # 📝 Teaching
-- BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)
 
+- BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)

@@ -26,6 +26,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 
 ## 🔥 News
+- **2026.09**: One paper was accepted to **Genome Biology**:
 - **2026.06**: One paper was accepted to **ICML 2026 Workshops**:
   - 🗣️ **<span style="color: red;">Oral presentation</span>** at **FAGEN Workshop**
 - **2026.05**: One paper was accepted at **ICML 2026**. 
@@ -45,11 +46,12 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 (\* indicates equal contribution)
 
 ## Journal
-1. **Fu, Y.**, & Yang, Y. (2026+)..  
+1. **Fu, Y.**, & Yang, Y. (2026+).  
    Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
    
 2. **Fu, Y.**, & Yang, Y. (2026+).  
    KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies
+  **Genome Biology**.
 
 3. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
    [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full).  
@@ -131,3 +133,4 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 # 📝 Teaching
 - BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)
+

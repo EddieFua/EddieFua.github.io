@@ -55,7 +55,7 @@ If you are interested in my work, please feel free to send me an [email](mailto:
    Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
 
 2. **Fu, Y.**, & Yang, Y. (2026).  
-   KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.  
+   [KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.](https://link.springer.com/article/10.1186/s13059-026-04285-7).  
    **Genome Biology**.
 
 3. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  

@@ -52,7 +52,7 @@ If you are interested in my work, please feel free to send me an [email](mailto:
 ## Journal
 
 1. **Fu, Y.**, & Yang, Y. (2026+).  
-   Shared-distinct representation learning decouples genetic and clinical risk signals for disease risk prediction.
+   Shared and modality-specific representations decouple genetic and clinical risk for biobank-enabled risk prediction and feature selection.
 
 2. **Fu, Y.**, & Yang, Y. (2026).  
    [KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.](https://link.springer.com/article/10.1186/s13059-026-04285-7).  

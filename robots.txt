@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eddiefua.github.io/sitemap.xml

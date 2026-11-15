@@ -1,150 +1,73 @@
 ---
+layout: home
+title: "Yinghao Fu | Biostatistics"
+section: home
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-# Welcome!
-
-I am Yinghao FU, currently a third-year Ph.D. student in Biostatistics at the City University of Hong Kong (CityU), where I am mentored by Professor [Yi Yang](https://yiyangphd.github.io/). Prior to this, I obtained my master's degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), where I was advised by Professor [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and Professor [Shuang Li](https://shuangli01.github.io/).
-
-My research focuses on developing data-driven and theory-driven methods to address challenges in genomic data analysis, with applications in healthcare.
-
-If you are interested in my work, please feel free to send me an [email](mailto:yinghao.fu@my.cityu.edu.hk).
-
-
-## 🔥 News
-
-- **2026.09**: One paper was accepted for publication in **Genome Biology**.
-- **2026.06**: One paper was accepted to an **ICML 2026 Workshop**:
-  - 🗣️ **<span style="color: red;">Oral presentation</span>** at the **FAGEN Workshop**
-- **2026.05**: One paper was accepted to **ICML 2026**.
-- **2025.09**: One paper received the **<span style="color: red;">Best Paper Award</span>** at the **NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance**.
-- **2025.06**: Three papers were accepted to **ICML 2025 Workshops**:
-  - 🗣️ **<span style="color: red;">Oral presentation</span>** at the [**CFAgentic Workshop**](https://openreview.net/forum?id=PcLnHRmZ86)
-  - 🧾 **Poster presentation** at the [**MoFA Workshop**](https://openreview.net/forum?id=bYUqizOfpx)
-  - ✅ Paper accepted at the [**PRAL Workshop**](https://pral-workshop.github.io/)
-- **2025.03**: One paper was accepted for publication in **Frontiers in Genetics**.
-- **2024.07**: Gave an invited talk at the **EcoStat Conference** in Beijing.
-- **2024.05**: One paper was accepted to **ICML 2024**.
-- **2024.04**: One paper was accepted for publication in **Genome Research**.
-- **2024.01**: Gave a talk at **PMOSHK** in Hong Kong.
-- **2024.01**: One paper was accepted to **ICLR 2024**.
-
-
-# 📝 Publications
-
-(\* indicates equal contribution)
-
-## Journal
-
-1. **Fu, Y.**, & Yang, Y. (2026+).  
-   Shared and modality-specific representations decouple genetic and clinical risk for biobank-enabled risk prediction and feature selection.
-
-2. **Fu, Y.**, & Yang, Y. (2026).  
-   [KNOT: a knockoff-augmented neural network for identifying risk variants and epistatic interactions in family-based association studies.](https://link.springer.com/article/10.1186/s13059-026-04285-7).  
-   **Genome Biology**.
-
-3. **Fu, Y.**, Tian, L., & Zhang, W. (2025).  
-   [STsisal: a reference-free deconvolution pipeline for spatial transcriptomics data](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1512435/full).  
-   **Frontiers in Genetics**.
-
-4. Cai, Q.\*, **Fu, Y.**\*, Lyu, C.\*, Wang, Z., Rao, S., Alvarez, J. A., Bai, Y., Kang, J., & Yu, T. (2024).  
-   [A new framework for exploratory network mediator analysis in omics data](https://genome.cshlp.org/content/34/4/642).  
-   **Genome Research**.
-
-
-## Conference
-
-1. Yan, Y., **Fu, Y.**, Ren, W., & Li, S. (2026).  
-   [Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis](https://icml.cc/virtual/2026/poster/61332).  
-   **International Conference on Machine Learning (ICML 2026)**.
-
-2. Cao, C.\*, **Fu, Y.**\*, Xv, S., Zhang, R., & Li, S. (2024).  
-   [Enhancing Human-AI Collaboration Through Logic-Guided Reasoning](https://openreview.net/forum?id=TWC4gLoAxY).  
-   **International Conference on Learning Representations (ICLR 2024)**.
-
-3. Yang, Y., Yang, C., Li, B., **Fu, Y.**, & Li, S. (2024).  
-   [Neuro-Symbolic Temporal Point Processes](https://proceedings.mlr.press/v235/yang24ag.html).  
-   **International Conference on Machine Learning (ICML 2024)**.
-
-4. Xia, W., **Fu, Y.**, Shi, J., Wu, H., & Wang, J. (2021).  
-   [The Team Winning Analysis Model Based on Network and Entropy Weight](https://ieeexplore.ieee.org/abstract/document/9550602/).  
-   **40th Chinese Control Conference (CCC 2021)**.
-
-
-## Workshop
-
-1. Yan, Y., **Fu, Y.**, Gao, H., Zhang, T., Liu, A., & Li, S. (2025).  
-   [When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation](https://openreview.net/forum?id=PcLnHRmZ86).  
-   *ICML 2025 Workshop on Failure Modes of Agentic AI*.  
-   (<span style="color: red;">Oral Presentation</span>)
-
-2. **Fu, Y.**\*, Yang, C.\*, Chen, X., Yan, Y., & Li, S. (2025).  
-   [Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis](https://openreview.net/forum?id=PcLnHRmZ86).  
-   *ICML 2025 Workshop on Collaborative and Federated Agentic Workflows*.  
-   (<span style="color: red;">Oral Presentation</span>)
-
-3. Yan, Y., **Fu, Y.**, Ren, W., & Li, S. (2025).  
-   [Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis](https://openreview.net/forum?id=bYUqizOfpx).  
-   *NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance*.  
-   (<span style="color: red;">Oral Presentation, Best Paper Award</span>)  
-   *ICML 2025 Workshop on Models of Human Feedback for AI Alignment*.
-
-4. Cao, C., **Fu, Y.**, Yang, C., & Li, S. (2025).  
-   [Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies](https://pral-workshop.github.io/).  
-   *ICML 2025 Workshop on Programmatic Representations for Agent Learning*.
-
-
-## Patent
-
-1. Li, S., **Fu, Y.**, Yang, C., Yang, Y., Feng, M., Xia, P., Chen, L., & Yu, T. (2024).  
-   **An AI-Assisted Multidisciplinary Consultation Decision-Making Method for Complex and Rare Diseases**.  
-   Publication No. **CN118507022A**.
-
-
-# 📖 Education
-
-- **Ph.D. in Biostatistics** (2024–Present)  
-  City University of Hong Kong  
-  Advisor: [Yi Yang](https://yiyangphd.github.io/)
-
-- **M.Sc. in Bioinformatics** (2022–2024)  
-  The Chinese University of Hong Kong, Shenzhen  
-  Advisors: [Tianwei Yu](https://mypage.cuhk.edu.cn/academics/yutianwei/) and [Shuang Li](https://shuangli01.github.io/)
-
-- **B.Sc. in Statistics** (2018–2022)  
-  East China University of Technology
-
-
-# 💬 Invited Talks
-
-- **2024.07**, [**Integrating Logic Rule-Informed AI with Human Minds: Enhancing Collaborative Decision-Making**](https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=324&token=3ss624p42s53sro50711q8pp29o6247q)  
-  - Beijing, China, July 2024.
-
-- **2024.01**, [**Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies**](https://pomshk2024.hkust.edu.hk/conference-programme)  
-  - Hong Kong SAR, China, January 2024.
-
-
-# 💻 Service
-
-- Journal Reviewer: Transactions on Machine Learning Research (TMLR)
-- Conference Reviewer: NeurIPS, ICML, ICLR, AAAI, AISTATS, and AAMAS
-
-
-# 📝 Teaching
-
-- BIOS 5802: Advanced Methods in Biostatistics (Spring 2025)
+<span class="anchor-alias" id="about-me"></span>
+<section class="hero container" id="about" aria-labelledby="hero-title">
+  <div class="hero-grid">
+    <div class="hero-copy">
+      <p class="hero-kicker">Biostatistics <span aria-hidden="true">·</span> Genomics <span aria-hidden="true">·</span> AI</p>
+      <h1 id="hero-title">Yinghao Fu</h1>
+      <p class="hero-subtitle">Ph.D. student in Biostatistics</p>
+      <p class="hero-affiliation">City University of Hong Kong</p>
+      <p class="bio">I am a third-year Ph.D. student at CityU, advised by <a href="https://yiyangphd.github.io/" target="_blank" rel="noopener noreferrer">Prof. Yi Yang</a>. I develop data-driven and theory-driven methods for genomic data analysis, with applications in healthcare.</p>
+      <div class="profile-links" aria-label="Academic profiles and contact"><a href="mailto:yinghao.fu@my.cityu.edu.hk">Email</a><a href="https://scholar.google.com/citations?user=8vBEgIYAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Google Scholar</a><a href="https://github.com/EddieFua" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://orcid.org/0009-0006-0265-1239" target="_blank" rel="noopener noreferrer">ORCID</a></div>
+    </div>
+    <figure class="profile-photo"><img src="{{ '/images/profile.png' | relative_url }}" width="703" height="746" alt="Yinghao Fu standing beside a lake" fetchpriority="high"><figcaption>Hong Kong SAR, China</figcaption></figure>
+  </div>
+</section>
+<span class="anchor-alias" id="-news"></span>
+<section class="updates container" id="news" aria-labelledby="news-title">
+  <div class="updates-heading"><h2 class="section-title" id="news-title">News</h2></div>
+  <div>
+    <ul class="news-list">
+      <li class="news-item"><time datetime="2026-09">2026.09</time><p>One paper accepted in <strong>Genome Biology</strong>. </p></li>
+      <li class="news-item"><time datetime="2026-06">2026.06</time><p>One paper accepted to an <strong>ICML 2026 Workshop</strong>, with an <strong>oral presentation</strong> at the FAGEN Workshop.</p></li>
+      <li class="news-item"><time datetime="2026-05">2026.05</time><p>One paper accepted to <strong>ICML 2026</strong>.</p></li>
+      <li class="news-item"><time datetime="2025-09">2025.09</time><p><strong>Best Paper Award</strong> at the NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance. </p></li>
+    </ul>
+    <details class="news-archive"><summary>Earlier updates <span class="archive-years">2024–2025</span></summary><ul class="news-list">
+      <li class="news-item"><time datetime="2025-06">2025.06</time><p>Three papers accepted to <strong>ICML 2025 Workshops</strong>: an <a href="https://openreview.net/forum?id=PcLnHRmZ86" target="_blank" rel="noopener noreferrer">oral at CFAgentic</a>, a <a href="https://openreview.net/forum?id=bYUqizOfpx" target="_blank" rel="noopener noreferrer">poster at MoFA</a>, and a paper at <a href="https://pral-workshop.github.io/" target="_blank" rel="noopener noreferrer">PRAL</a>.</p></li>
+      <li class="news-item"><time datetime="2025-03">2025.03</time><p>One paper accepted in <strong>Frontiers in Genetics</strong>.</p></li>
+      <li class="news-item"><time datetime="2024-07">2024.07</time><p>Invited talk at the <strong>EcoStat Conference</strong> in Beijing.</p></li>
+      <li class="news-item"><time datetime="2024-05">2024.05</time><p>One paper accepted to <strong>ICML 2024</strong>.</p></li>
+      <li class="news-item"><time datetime="2024-04">2024.04</time><p>One paper accepted in <strong>Genome Research</strong>.</p></li>
+      <li class="news-item"><time datetime="2024-01">2024.01</time><p>Gave a talk at <strong>PMOSHK</strong> in Hong Kong.</p></li>
+      <li class="news-item"><time datetime="2024-01">2024.01</time><p>One paper accepted to <strong>ICLR 2024</strong>.</p></li>
+    </ul></details>
+  </div>
+</section>
+<span class="anchor-alias" id="research"></span>
+<section class="research container section research-map" id="research-map" data-research-map aria-labelledby="research-title">
+  <div class="research-map-heading"><h2 class="section-title" id="research-title">Research map</h2></div>
+  <p class="research-root">Statistical learning for genomics and healthcare</p>
+  <div class="research-pillars">
+    <section class="research-pillar" aria-labelledby="genomics-pillar"><h3 class="research-pillar-title" id="genomics-pillar">Statistical genomics</h3>
+<article class="research-topic" aria-labelledby="question-genetic-risk">
+  <div class="research-topic-heading"><span class="research-topic-index" aria-hidden="true">01</span><h4 class="research-question" id="question-genetic-risk">Genetic risk modeling</h4></div>
+  <p class="research-description">Linking genetic variation and interactions to disease risk.</p>
+</article>
+<article class="research-topic" aria-labelledby="question-biological-structure">
+  <div class="research-topic-heading"><span class="research-topic-index" aria-hidden="true">02</span><h4 class="research-question" id="question-biological-structure">Cellular composition and molecular networks</h4></div>
+  <p class="research-description">Deconvolving spatial data and exploring molecular relationships.</p>
+</article>
+    </section>
+    <section class="research-pillar" aria-labelledby="reasoning-pillar"><h3 class="research-pillar-title" id="reasoning-pillar">Interpretable learning and clinical reasoning</h3>
+<article class="research-topic" aria-labelledby="question-structured-reasoning">
+  <div class="research-topic-heading"><span class="research-topic-index" aria-hidden="true">03</span><h4 class="research-question" id="question-structured-reasoning">Logic-guided learning</h4></div>
+  <p class="research-description">Combining logical rules with data-driven models.</p>
+</article>
+<article class="research-topic" aria-labelledby="question-collaborative-diagnosis">
+  <div class="research-topic-heading"><span class="research-topic-index" aria-hidden="true">04</span><h4 class="research-question" id="question-collaborative-diagnosis">Collaborative diagnosis</h4></div>
+  <p class="research-description">Coordinating expertise for complex and rare disease diagnosis.</p>
+</article>
+    </section>
+  </div>
+  <div class="research-map-footer"><a href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a></div>
+</section>

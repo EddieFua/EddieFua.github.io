@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8vBEgIYAAAAJ&hl=zh-CN"
-  email            : "yinghaofu2-c@my.cityu.edu.hk"
+  email            : "yinghao.fu@my.cityu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -66,6 +66,7 @@ include:
   - files
 exclude:
   - docs
+  - tools
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

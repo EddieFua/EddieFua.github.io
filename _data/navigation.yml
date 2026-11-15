@@ -1,22 +1,8 @@
-# main links links
+# Separate pages, shared by the redesigned homepage.
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
+  - title: "About"
+    url: "/"
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-    
-  - title: "Services"
-    url: "/#-services"
-    
-  - title: "Teaching"
-    url: "/#-teaching"
+    url: "/publications/"
+  - title: "Experience"
+    url: "/experience/"
